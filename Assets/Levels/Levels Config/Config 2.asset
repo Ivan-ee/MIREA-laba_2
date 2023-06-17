@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e088e303cdae6f941be3bcb4b0e705f4, type: 3}
+  m_Name: Config 2
+  m_EditorClassIdentifier: 
+  Waves:
+  - _rangedEnemy: {fileID: 5846272105446558643, guid: ce0cf39f57b007e4ead5557727500455, type: 3}
+    _meleeEnemy: {fileID: 5824361507440915645, guid: c7a979c5812766844b79d5610bd2e0d1, type: 3}
+    _rangedEnemyCount: 1
+    _meleeEnemyCount: 2
+  - _rangedEnemy: {fileID: 5846272105446558643, guid: ce0cf39f57b007e4ead5557727500455, type: 3}
+    _meleeEnemy: {fileID: 5824361507440915645, guid: c7a979c5812766844b79d5610bd2e0d1, type: 3}
+    _rangedEnemyCount: 2
+    _meleeEnemyCount: 2
+  - _rangedEnemy: {fileID: 5846272105446558643, guid: ce0cf39f57b007e4ead5557727500455, type: 3}
+    _meleeEnemy: {fileID: 5824361507440915645, guid: c7a979c5812766844b79d5610bd2e0d1, type: 3}
+    _rangedEnemyCount: 4
+    _meleeEnemyCount: 4

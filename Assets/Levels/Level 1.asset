@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f640a50a58d20e448187fc4b6d8bd75, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  _levelIndex: 1
+  _levelName: First level
+  _levelDescription: More easy level ever
+  _sceneToLoad: {fileID: 102900000, guid: 5067a2baf894e9e46b8766c5c3577a8e, type: 3}
+  _levelData: {fileID: 11400000, guid: 124d6a6024dfb7741b7e3f47fc49c7ed, type: 2}

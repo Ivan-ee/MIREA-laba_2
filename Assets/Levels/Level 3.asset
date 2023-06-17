@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f640a50a58d20e448187fc4b6d8bd75, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  _levelIndex: 3
+  _levelName: Fird level
+  _levelDescription: Only for Gigachads
+  _sceneToLoad: {fileID: 102900000, guid: fdec2e34ab791d2459be5755fbe75d51, type: 3}
+  _levelData: {fileID: 11400000, guid: a3a7983ff9b75be47932574fe87437f5, type: 2}
